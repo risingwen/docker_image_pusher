@@ -10,4 +10,6 @@ kindest/node:v1.24.0
 k8s.gcr.io/ingress-nginx/controller:v1.2.0
 k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
 ubuntu:16.04
+ubuntu:20.04
+ubuntu:18.04
 almalinux:8.9
