@@ -13,4 +13,6 @@
 #ubuntu:20.04
 #ubuntu:18.04
 #almalinux:8.9
-opstool/kylin:v10sp1-aarch64
+#opstool/kylin:v10sp1-aarch64
+--platform=linux/arm64 opstool/kylin:v10sp1
+opstool/kylin:v10sp1
