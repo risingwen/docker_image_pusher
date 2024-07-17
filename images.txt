@@ -1,15 +1,16 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-jenkins/jenkins:jdk17
---platform=linux/arm64 ubuntu:20.04
-kindest/node:v1.24.0
+#--platform=linux/arm64 xiaoyaliu/alist
+#jenkins/jenkins:jdk17
+#--platform=linux/arm64 ubuntu:20.04
+#kindest/node:v1.24.0
 #k8s.gcr.io/ingress-nginx/controller:v1.2.0
 #k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
-ubuntu:16.04
-ubuntu:20.04
-ubuntu:18.04
-almalinux:8.9
+#ubuntu:16.04
+#ubuntu:20.04
+#ubuntu:18.04
+#almalinux:8.9
+opstool/kylin:v10sp1-aarch64
