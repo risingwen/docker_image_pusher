@@ -16,3 +16,4 @@
 #opstool/kylin:v10sp1-aarch64
 --platform=linux/arm64 opstool/kylin:v10sp1
 opstool/kylin:v10sp1
+hu60/kylin-desktop:v10-sp1-2107-base
