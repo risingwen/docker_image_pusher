@@ -18,3 +18,5 @@
 opstool/kylin:v10sp1
 hu60/kylin-desktop:v10-sp1-2107-base
 centos:7.6.1810
+centos:7.4.1708
+centos:8.4.2105
