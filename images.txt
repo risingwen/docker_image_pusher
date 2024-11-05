@@ -21,3 +21,5 @@ centos:7.6.1810
 centos:7.4.1708
 centos:8.4.2105
 nvidia/cuda:12.1.0-devel-ubuntu20.04
+openanolis/anolisos:8.8
+
