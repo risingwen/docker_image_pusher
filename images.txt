@@ -25,3 +25,4 @@ openanolis/anolisos:8.8
 pytorch/manylinux-builder:cpu
 nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
 nvidia/cuda:12.4.1-devel-ubuntu22.04
+nvidia/cuda:12.4.1-devel-ubuntu20.04
