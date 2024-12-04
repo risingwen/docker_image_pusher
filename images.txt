@@ -23,4 +23,4 @@ centos:8.4.2105
 nvidia/cuda:12.1.0-devel-ubuntu20.04
 openanolis/anolisos:8.8
 pytorch/manylinux-builder:cpu
-
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
