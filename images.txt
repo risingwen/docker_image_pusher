@@ -28,3 +28,4 @@
 #nvidia/cuda:12.4.1-devel-ubuntu20.04
 hxsoong/kylin:v10-sp3
 --platform=linux/arm64 hxsoong/kylin:v10-sp3
+milvusdb/milvus:v2.5.1-gpu
