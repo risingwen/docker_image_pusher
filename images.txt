@@ -14,15 +14,17 @@
 #ubuntu:18.04
 #almalinux:8.9
 #opstool/kylin:v10sp1-aarch64
---platform=linux/arm64 opstool/kylin:v10sp1
-opstool/kylin:v10sp1
-hu60/kylin-desktop:v10-sp1-2107-base
-centos:7.6.1810
-centos:7.4.1708
-centos:8.4.2105
-nvidia/cuda:12.1.0-devel-ubuntu20.04
-openanolis/anolisos:8.8
-pytorch/manylinux-builder:cpu
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
-nvidia/cuda:12.4.1-devel-ubuntu22.04
-nvidia/cuda:12.4.1-devel-ubuntu20.04
+#--platform=linux/arm64 opstool/kylin:v10sp1
+#opstool/kylin:v10sp1
+#hu60/kylin-desktop:v10-sp1-2107-base
+#centos:7.6.1810
+#centos:7.4.1708
+#centos:8.4.2105
+#nvidia/cuda:12.1.0-devel-ubuntu20.04
+#openanolis/anolisos:8.8
+#pytorch/manylinux-builder:cpu
+#nvidia/cuda:12.4.1-cudnn-devel-ubuntu20.04
+#nvidia/cuda:12.4.1-devel-ubuntu22.04
+#nvidia/cuda:12.4.1-devel-ubuntu20.04
+hxsoong/kylin:v10-sp3
+--platform=linux/arm64 hxsoong/kylin:v10-sp3
