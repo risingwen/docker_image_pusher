@@ -32,4 +32,6 @@
 #gitlab/gitlab-ce:15.4.5-ce.0
 #pytorch/manylinux-builder:cuda12.8
 #pytorch/manylinux-builder:cuda11.8
-debian:12
+#debian:12
+ubuntu:24.04
+sha256:6015f66923d7afbc53558d7ccffd325d43b4e249f41a6e93eef074c9505d2233
