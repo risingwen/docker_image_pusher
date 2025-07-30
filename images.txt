@@ -34,3 +34,5 @@
 #pytorch/manylinux-builder:cuda11.8
 #debian:12
 ubuntu:24.04
+saschpe/android-ndk:35-jdk21.0.5_11-ndk28.0.13004108-cmake3.31.5
+
